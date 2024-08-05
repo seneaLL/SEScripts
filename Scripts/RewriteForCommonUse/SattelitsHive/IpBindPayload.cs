@@ -1,6 +1,6 @@
 using System.Collections.Generic;
-using SpaceEngineers.UWBlockPrograms.Helpers;
-using SpaceEngineers.UWBlockPrograms.Helpers.Serialization;
+using SpaceEngineers.Helpers;
+using SpaceEngineers.Helpers.Serialization;
 
 namespace SpaceEngineers.UWBlockPrograms.Models
 {

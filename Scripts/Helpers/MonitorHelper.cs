@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Sandbox.ModAPI.Ingame;
-using SpaceEngineers.UWBlockPrograms.Helpers.Serialization;
+using SpaceEngineers.Helpers.Serialization;
 using VRage.Game;
 
 namespace Common.Monitor

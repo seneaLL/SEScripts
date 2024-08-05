@@ -1,7 +1,7 @@
 using Sandbox.ModAPI.Ingame;
 using VRageMath;
 
-namespace SpaceEngineers.CommonLibs
+namespace SpaceEngineers.Wrappers
 {
     class RemoteControlPhysicalInfo
     {

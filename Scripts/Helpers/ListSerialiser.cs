@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SpaceEngineers.UWBlockPrograms.Helpers.Serialization
+namespace SpaceEngineers.Helpers.Serialization
 {
     public static class ListSerialiser {
             public static string Serialize(List<KeyValuePair<string, string>> obj)

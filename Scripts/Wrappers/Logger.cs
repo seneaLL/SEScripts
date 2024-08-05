@@ -1,6 +1,6 @@
 using Sandbox.ModAPI.Ingame;
 
-namespace SpaceEngineers.CommonLibs
+namespace SpaceEngineers.Wrappers
 {
     class Logger
     {

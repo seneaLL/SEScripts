@@ -2,7 +2,7 @@ using System;
 using Sandbox.ModAPI.Ingame;
 using SpaceEngineers.UWBlockPrograms.Models;
 using SpaceEngineers.UWBlockPrograms.Transiever.Common;
-using SpaceEngineers.UWBlockPrograms.Wrappers;
+using SpaceEngineers.Wrappers;
 
 namespace SpaceEngineers.UWBlockPrograms.Transiever.Wrappers
 {

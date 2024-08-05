@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using SpaceEngineers.UWBlockPrograms.Helpers.Serialization;
+using SpaceEngineers.Helpers.Serialization;
 using VRageMath;
 
 namespace SpaceEngineers.UWBlockPrograms.Models

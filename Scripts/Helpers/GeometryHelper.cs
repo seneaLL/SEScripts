@@ -2,7 +2,7 @@ using System;
 using GravityZond.Measurements;
 using VRageMath;
 
-namespace SpaceEngineers.UWBlockPrograms.Helpers.Geometry
+namespace SpaceEngineers.Helpers.Geometry
 {
     public class GeometryHelper {
         public static Vector3D GetGravVectorsIntersection(GravityPointData point1Data, GravityPointData point2Data) {
